@@ -1,0 +1,2242 @@
+{
+	"folder_history":
+	[
+		"/Users/atlantis/Documents/version_controlled_code/D2/htcv2",
+		"/Users/atlantis/Documents/version_controlled_code/194",
+		"/Users/atlantis/Documents/version_controlled_code/194/gmail",
+		"/Users/atlantis/Documents/version_controlled_code/194_project",
+		"/Users/atlantis/Documents/version_controlled_code/vons_site",
+		"/Users/atlantis/Documents/version_controlled_code/vons_site_live",
+		"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code",
+		"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/lsh",
+		"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth",
+		"/Users/atlantis/Documents/version_controlled_code/php_test_app",
+		"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app",
+		"/Users/atlantis/Documents/version_controlled_code/D2/webstrings",
+		"/Users/atlantis/Documents/BTDownloads/SCPD_Scrape/fifth_cannibalized_parallel/scraper_running_copy",
+		"/Users/atlantis/Dropbox/Code/SCPD_Scrape",
+		"/Users/atlantis/Dropbox/Code/SCPD_Scrape/second_try/scpd-scraper-2-dev",
+		"/Users/atlantis/Dropbox/Code/SCPD_Scrape/fourth_parallel/SCPD-Scraper-master",
+		"/Users/atlantis/Dropbox/Code/SCPD_Scrape/fourth_parallel",
+		"/Users/atlantis/Dropbox/Code/SCPD_Scrape/third_try/scpd-scraper-v2-master",
+		"/Users/atlantis/Dropbox/Code/Rosie",
+		"/Users/atlantis/Dropbox/Code/nextlevel-production",
+		"/Users/atlantis/Dropbox/Code/timeboxing_app",
+		"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2",
+		"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3",
+		"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2/submit",
+		"/Users/atlantis/Documents/version_controlled_code/D2/dropboxapp",
+		"/Users/atlantis/Dropbox/Code/D2/webstrings",
+		"/Users/atlantis/Dropbox/Code/D2/htcv2/carrierwave_direct_example",
+		"/Users/atlantis/Dropbox/Code/D2/old_webstrings",
+		"/Users/atlantis/Dropbox/Code/D2/ebook-site/siteroot",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_sample-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_frontend-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_core-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_cmd-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_backend-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems/spree_api-2.0.3",
+		"/Users/atlantis/.rvm/gems/ruby-1.9.3-p374/gems",
+		"/Users/atlantis/Dropbox/Code/D2/htcv2",
+		"/Users/atlantis/Dropbox/Nice Things/final_goobhaus_site",
+		"/Users/atlantis/Dropbox/Nice Things/goobhaus_site",
+		"/Users/atlantis/Dropbox/Code/D2/ebook-site",
+		"/Users/atlantis/Dropbox/Code/D2/dropboxapp",
+		"/Users/atlantis/Downloads/jquery_file_upload_sample-master",
+		"/Users/atlantis/Downloads/jquery-fileupload-rails-paperclip-example-master",
+		"/Users/atlantis/Dropbox/Code/D2/ebook-site/siteroot/wp-content/themes/showy",
+		"/Users/atlantis/Dropbox/Code/D2/ebook-site/slider_testing/nivo-slider",
+		"/Users/atlantis/Dropbox/Code/Android/glass-task-list",
+		"/Users/atlantis/Dropbox/Classes/CS181W/Final Project/Website",
+		"/Users/atlantis/Dropbox/Classes/ENGR40N/Project/e40n"
+	],
+	"last_version": 3059,
+	"last_window_id": 507,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"done",
+						"done_cards"
+					],
+					[
+						"fu",
+						"full_query"
+					],
+					[
+						"k_",
+						"k_values"
+					],
+					[
+						"remo",
+						"remove_index"
+					],
+					[
+						"sho",
+						"shows_ID"
+					],
+					[
+						"max",
+						"max_index"
+					],
+					[
+						"min",
+						"min_price"
+					],
+					[
+						"min_pr",
+						"min_price_flights"
+					],
+					[
+						"depar",
+						"departure_flight_options"
+					],
+					[
+						"best",
+						"best_flight_link"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"destin",
+						"destinations"
+					],
+					[
+						"flight",
+						"flight_options"
+					],
+					[
+						"gmail",
+						"gmail_xoauth"
+					],
+					[
+						"connect",
+						"connect_to_gmail"
+					],
+					[
+						"action",
+						"action_mailer"
+					],
+					[
+						"lsh",
+						"lsh_times"
+					],
+					[
+						"ass",
+						"association_rule_1_confidence"
+					],
+					[
+						"item_count",
+						"item_count_array"
+					],
+					[
+						"fre",
+						"frequent_pair_hash"
+					],
+					[
+						"can",
+						"candidate_items_for_freq_triples"
+					],
+					[
+						"brow",
+						"browsing_sessions"
+					],
+					[
+						"nex",
+						"next_freq_item_number"
+					],
+					[
+						"item",
+						"item_count"
+					],
+					[
+						"item_cou",
+						"item_count_array"
+					],
+					[
+						"sor",
+						"sorted_s2"
+					],
+					[
+						"s2",
+						"s2_len"
+					],
+					[
+						"s1",
+						"s1_len"
+					],
+					[
+						"res",
+						"res_cat"
+					],
+					[
+						"resou",
+						"resource_category"
+					],
+					[
+						"service",
+						"service_categories"
+					],
+					[
+						"resource",
+						"resource_categories"
+					],
+					[
+						"redi",
+						"redirect_to"
+					],
+					[
+						"se",
+						"seo_url"
+					],
+					[
+						"find",
+						"find_by_seo_url"
+					],
+					[
+						"content",
+						"content_page"
+					],
+					[
+						"style",
+						"stylesheets"
+					],
+					[
+						"thsi",
+						"this_service"
+					],
+					[
+						"com",
+						"comments"
+					],
+					[
+						"box",
+						"box_id"
+					],
+					[
+						"suggest",
+						"suggest_tool"
+					],
+					[
+						"tool",
+						"tool_type"
+					],
+					[
+						"shared",
+						"shared_custom"
+					],
+					[
+						"redic",
+						"redirect_to"
+					],
+					[
+						"create",
+						"create_service_lead"
+					],
+					[
+						"this",
+						"this_service"
+					],
+					[
+						"advice",
+						"advice_post"
+					],
+					[
+						"conversation",
+						"conversation_posts"
+					],
+					[
+						"image_",
+						"image_style"
+					],
+					[
+						"redire",
+						"redirect_to"
+					],
+					[
+						"youtub",
+						"youtube_html"
+					],
+					[
+						"add",
+						"add_column"
+					],
+					[
+						"delayed",
+						"delayed_job"
+					],
+					[
+						"advi",
+						"advice_post"
+					],
+					[
+						"parent",
+						"parent_comment"
+					],
+					[
+						"has",
+						"has_many"
+					],
+					[
+						"curren",
+						"current_user"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"ad",
+						"administrator"
+					],
+					[
+						"remove",
+						"remove_column"
+					],
+					[
+						"full",
+						"full_messages"
+					],
+					[
+						"comment",
+						"commentable"
+					],
+					[
+						"names",
+						"namespace"
+					],
+					[
+						"all",
+						"all	all? { |e| .. }"
+					],
+					[
+						"sub",
+						"subtitle"
+					],
+					[
+						"out",
+						"out_link"
+					],
+					[
+						"fea",
+						"featured_rank"
+					],
+					[
+						"publish",
+						"published_at"
+					],
+					[
+						"admin",
+						"admin_area"
+					],
+					[
+						"before",
+						"before_filter"
+					],
+					[
+						"attr",
+						"attr_accessible"
+					],
+					[
+						"fac",
+						"factory_girl"
+					],
+					[
+						"game",
+						"gamesalute"
+					],
+					[
+						"crow",
+						"crowdfundbuzz"
+					],
+					[
+						"design",
+						"designcrowd"
+					],
+					[
+						"kick",
+						"kicktraq"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"cm",
+						"command"
+					],
+					[
+						"test",
+						"test_img_1"
+					],
+					[
+						"util",
+						"utilitarian_arguments_for_open_source"
+					],
+					[
+						"deonto",
+						"deontological_arguments_for_open_source"
+					],
+					[
+						"div",
+						"diversity"
+					],
+					[
+						"ref",
+						"references"
+					],
+					[
+						"po",
+						"policy"
+					],
+					[
+						"is",
+						"is_this_a_real_task"
+					],
+					[
+						"line",
+						"line_padding_top"
+					],
+					[
+						"line_",
+						"line_padding_bottom"
+					],
+					[
+						"caret",
+						"caret_style"
+					]
+				]
+			},
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"command_palette":
+			{
+				"height": 306.0,
+				"selected_items":
+				[
+					[
+						"mat",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"amtla",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"favor",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"matl",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"pl",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ope",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"add",
+						"Favorite Files: Add File(s)"
+					],
+					[
+						"open",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"fav",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"fa",
+						"Favorite Files: Add File(s)"
+					],
+					[
+						"syntax rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimerge",
+						"Sublimerge: View Diff"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"fi",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"filediff",
+						"FileDiffs: Menu"
+					],
+					[
+						"open fil",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"tidy",
+						"TidyHTML"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pre",
+						"Preferences: Prefixr Key Bindings – User"
+					],
+					[
+						"prefix",
+						"Preferences: Prefixr Key Bindings – Default"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"s",
+						"Snippet: <base>"
+					],
+					[
+						"syntax r",
+						"Set Syntax: R"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"tasks",
+						"Tasks: New document"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"org",
+						"Preferences: orgmode Settings – Default"
+					],
+					[
+						"orgm",
+						"Preferences: orgmode Settings – Default"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 141.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(true)",
+					"sublime",
+					"sublime.methods",
+					"sublime.show_commands",
+					"sublime.show_command",
+					"sublime",
+					"prefixr",
+					"sublime.log_commands(False)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/atlantis/Dropbox/Code/Trello/mark_done.rb",
+				"/Users/atlantis/Dropbox/Quick Notes/2-13-14_getting_set_up_with_trello_again.txt",
+				"/Users/atlantis/Dropbox/Classes/CS245/Assignments/hw5/gradience_notes.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/2-13-14_to_do_systems.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/good_porn.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/test/unit/folders_test.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/test/fixtures/folders.yml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/db/migrate/20140203054717_create_folders.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/user.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/folders.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/email.rb",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q2b_code.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q3pd_code.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/hw2_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q1d_code.m",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/parse_results.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/scrape_google_flights.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/second_casper_sample_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_sample_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_sample_test.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/scraper_options.txt",
+				"/Users/atlantis/Dropbox/Code/Snippets/useful_commands.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/routes.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/mail_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_gflights_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/mail/index.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/mail/compose_email.html.haml",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q1d_code.mat",
+				"/Users/atlantis/Dropbox/Projects/Smart Water Bottle/bases_pitch_notes.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/db/migrate/20140201000918_devise_create_users.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/sample_oauth2_response.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/Gemfile",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/initializers/devise.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/homepage/homepage.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/message.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/client/imap_extensions.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/application_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/users/omniauth_callbacks_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/homepage_controller.rb",
+				"/Users/atlantis/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/net/imap.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/google/test.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/google/authenticate.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/google_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/initializers/omniauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/public/index.html",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/application.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/layouts/application.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/layouts/application.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/environments/development.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/client/xoauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/vons_site/wp-content/plugins/content-warning-v2/css/cwv3.css",
+				"/Users/atlantis/Dropbox/Classes/MATH51/exam_1_notes.txt",
+				"/Users/atlantis/Dropbox/Projects/YesLets/possible_flight_fare_apis.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/FriendRecommender.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/FriendRecommenderPartTwo.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/hw1_q1_code.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/hw1_solutions.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/new_output",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/part-r-00000",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/newtestoutput",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/lsh/README.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/apriori.py",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_3.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_2.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_1.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/lsh/q4_d_part_2.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_1.mat",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/README.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/config/initializers/omniauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/controllers/sessions_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/views/sessions/create.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/views/layouts/application.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/Gemfile",
+				"/Users/atlantis/Downloads/client_secret_446049003901.apps.googleusercontent.com.json",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/.gitignore",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/.gitignore",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/db/schema.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/test/fixtures/posts.yml",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/test/unit/post_test.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/app/models/post.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/db/migrate/20140123234354_create_posts.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/README.md",
+				"/Users/atlantis/.zshrc",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/browsing_small_set.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/browsing.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/test_answers.py",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/config/config.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/config/database.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/pages/home.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/pages/about.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/templates/footer.php",
+				"/Users/atlantis/Dropbox/Classes/CS 161/Other/cs161_final_notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/q4.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS7/hw7_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/hw5/hw5solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS6/11-4-13_random_to_dos.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS9/ps9_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/hw7/challenge_problems.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/hw7/recursion_exercises.sql'",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS8/ps8_solns.txt",
+				"/Users/atlantis/Dropbox/Code/SCPD_Scrape/scrape.py",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/hw4/hw4_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/hw4_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/p3_info.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/testing_webpy/templates/index.html",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/testing_webpy/code.py",
+				"/Users/atlantis/Dropbox/Classes/CS 157/notes_hw_8.txt",
+				"/Users/atlantis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2/11-6-13_todo.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2/11-6-13_things_to_know_161_midterm.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/9-24-13_notes_first_hw.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/9-24-13_notes_first_class.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS3/hw3_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 157/video_notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Notes/notes_weeks_one_and_two.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/10-1-13_notes_for_and_from_call_with_greg.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW2/notes_cp_2_soln.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/notes_textbook.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/10-11-13_fidget_toys.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-noID_DTD.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-ID_DTD.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-ID.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-noID.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/cp2_soln_FINAL.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/challenge_problems.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/quick_test_1-4.rb",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/1.1-1.2_soln.txt"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js,-*.css",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/models",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/helpers",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/controllers",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js,-*.css",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"011",
+					"111",
+					"101",
+					"011",
+					"010",
+					"101",
+					"011",
+					"010",
+					"011",
+					"001",
+					"1111",
+					"0001",
+					"0111",
+					"chronic",
+					"indices",
+					"user_user",
+					"top_19_indices_final",
+					"user",
+					"19",
+					"user",
+					"top_19_indices_final",
+					"[0 0 0 0 0]",
+					"top_5_scores",
+					"user",
+					"Q^(-1/2)",
+					"P^(-1/2)",
+					"min_price_flights_all",
+					"2014-03-05",
+					"'Cheapest options among all dates:'",
+					"all",
+					"best_dep_flight",
+					"timing_and_airline",
+					"_tag",
+					"email",
+					"subject",
+					"label",
+					"t_lp",
+					"inbox",
+					"note",
+					"message",
+					"auth_hash",
+					"path",
+					"assets",
+					"action_ma",
+					"439,2409,6995,11860,15416,43748,45881",
+					",212,",
+					"212",
+					",",
+					"lsh_times",
+					"over",
+					"the set",
+					"figure",
+					"lsh_dist_sum",
+					"lshlookup",
+					"1YkujFdHxBrE184DyF86LM-I",
+					"446049003901.apps.googleusercontent.com",
+					"association_rules_pairs",
+					"import",
+					"from",
+					"keys",
+					"P(",
+					"C.",
+					"p4",
+					"p3",
+					"p2",
+					"p1",
+					"cs145_hw2_cp1",
+					"cs145_hw2_cp1=# ",
+					"getp",
+					"password",
+					"lecture",
+					"ppm",
+					"low_AQI_conc",
+					"u",
+					"x",
+					"w",
+					"hiring",
+					"Risk",
+					"*10^(-2)",
+					"SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p",
+					"SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P14\nJOIN\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P15\nusing(p)\nWHERE P14.c = 5 and P15.c = 11",
+					"SELECT P14.p, P14.c, P15.c, P14.steps + P15.steps as steps FROM\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P14\nJOIN\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P15\nusing(p)\nWHERE P14.c = 5 and P15.c = 11",
+					";",
+					"=>",
+					"pry(main)*",
+					"pry(main)>",
+					"u",
+					"U",
+					"JOIN_",
+					"PROJECT_",
+					"Rnew",
+					"Rorig",
+					"RENAME_",
+					"Rold",
+					"coursere",
+					"instruc",
+					"course",
+					"pre",
+					"instr",
+					"=",
+					"Prerequisites",
+					"course",
+					"profess",
+					"chair",
+					"depart",
+					"burn",
+					"time",
+					"exer",
+					"ws",
+					"web",
+					"email",
+					"accoun",
+					"up",
+					"hab",
+					"site",
+					"parent",
+					"bd",
+					"danny",
+					"hp",
+					"site",
+					"service-entry-page",
+					"this_service",
+					"remove_column",
+					"content_post_path",
+					"post_path",
+					"find_all_by_slug",
+					"resource_category",
+					"work"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\t",
+					"advice",
+					"Factory",
+					"",
+					"htcv2",
+					"Htcv2",
+					"htcv2"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"adduser",
+						"siteroot/db/migrate/20130816052422_add_username_to_users.rb"
+					],
+					[
+						"gem",
+						"siteroot/Gemfile"
+					],
+					[
+						"_payment",
+						"siteroot/app/views/spree/checkout/_payment.html.haml"
+					],
+					[
+						"adv",
+						"siteroot/app/models/advice_post.rb"
+					],
+					[
+						"spree/checkout/ed",
+						"siteroot/app/views/spree/checkout/edit.html.haml"
+					],
+					[
+						"environ/development",
+						"siteroot/config/environments/development.rb"
+					],
+					[
+						"config/environments/p",
+						"carrierwave_direct_example/config/environments/production.rb"
+					],
+					[
+						"comments/_fo",
+						"siteroot/app/views/comments/_form.html.haml"
+					],
+					[
+						"advice_posts/show",
+						"siteroot/app/views/advice_posts/show.html.haml"
+					],
+					[
+						"advice_posts/in",
+						"siteroot/app/views/advice_posts/index.html.haml"
+					],
+					[
+						"userto",
+						"siteroot/db/migrate/20130801000649_add_user_ids_to_user_creatable_models.rb"
+					],
+					[
+						"createresour",
+						"siteroot/db/migrate/20130728163324_create_resources.rb"
+					],
+					[
+						"advice_",
+						"siteroot/app/models/advice_post.rb"
+					],
+					[
+						"migrationadvie",
+						"siteroot/db/migrate/20130731221626_change_titles_on_advice.rb"
+					],
+					[
+						"createad",
+						"siteroot/db/migrate/20130730155313_create_advice_posts.rb"
+					],
+					[
+						"abilit",
+						"siteroot/app/models/ability.rb"
+					],
+					[
+						"",
+						"siteroot/app/views/layouts/devise.html.haml"
+					],
+					[
+						"image",
+						"siteroot/app/uploaders/image_uploader.rb"
+					],
+					[
+						"read",
+						"~/Library/Application Support/Sublime Text 3/Packages/orgmode/README.org"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 134.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 720.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"done",
+						"done_cards"
+					],
+					[
+						"fu",
+						"full_query"
+					],
+					[
+						"k_",
+						"k_values"
+					],
+					[
+						"remo",
+						"remove_index"
+					],
+					[
+						"sho",
+						"shows_ID"
+					],
+					[
+						"max",
+						"max_index"
+					],
+					[
+						"min",
+						"min_price"
+					],
+					[
+						"min_pr",
+						"min_price_flights"
+					],
+					[
+						"depar",
+						"departure_flight_options"
+					],
+					[
+						"best",
+						"best_flight_link"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"destin",
+						"destinations"
+					],
+					[
+						"flight",
+						"flight_options"
+					],
+					[
+						"gmail",
+						"gmail_xoauth"
+					],
+					[
+						"connect",
+						"connect_to_gmail"
+					],
+					[
+						"action",
+						"action_mailer"
+					],
+					[
+						"lsh",
+						"lsh_times"
+					],
+					[
+						"ass",
+						"association_rule_1_confidence"
+					],
+					[
+						"item_count",
+						"item_count_array"
+					],
+					[
+						"fre",
+						"frequent_pair_hash"
+					],
+					[
+						"can",
+						"candidate_items_for_freq_triples"
+					],
+					[
+						"brow",
+						"browsing_sessions"
+					],
+					[
+						"nex",
+						"next_freq_item_number"
+					],
+					[
+						"item",
+						"item_count"
+					],
+					[
+						"item_cou",
+						"item_count_array"
+					],
+					[
+						"sor",
+						"sorted_s2"
+					],
+					[
+						"s2",
+						"s2_len"
+					],
+					[
+						"s1",
+						"s1_len"
+					],
+					[
+						"res",
+						"res_cat"
+					],
+					[
+						"resou",
+						"resource_category"
+					],
+					[
+						"service",
+						"service_categories"
+					],
+					[
+						"resource",
+						"resource_categories"
+					],
+					[
+						"redi",
+						"redirect_to"
+					],
+					[
+						"se",
+						"seo_url"
+					],
+					[
+						"find",
+						"find_by_seo_url"
+					],
+					[
+						"content",
+						"content_page"
+					],
+					[
+						"style",
+						"stylesheets"
+					],
+					[
+						"thsi",
+						"this_service"
+					],
+					[
+						"com",
+						"comments"
+					],
+					[
+						"box",
+						"box_id"
+					],
+					[
+						"suggest",
+						"suggest_tool"
+					],
+					[
+						"tool",
+						"tool_type"
+					],
+					[
+						"shared",
+						"shared_custom"
+					],
+					[
+						"redic",
+						"redirect_to"
+					],
+					[
+						"create",
+						"create_service_lead"
+					],
+					[
+						"this",
+						"this_service"
+					],
+					[
+						"advice",
+						"advice_post"
+					],
+					[
+						"conversation",
+						"conversation_posts"
+					],
+					[
+						"image_",
+						"image_style"
+					],
+					[
+						"redire",
+						"redirect_to"
+					],
+					[
+						"youtub",
+						"youtube_html"
+					],
+					[
+						"add",
+						"add_column"
+					],
+					[
+						"delayed",
+						"delayed_job"
+					],
+					[
+						"advi",
+						"advice_post"
+					],
+					[
+						"parent",
+						"parent_comment"
+					],
+					[
+						"has",
+						"has_many"
+					],
+					[
+						"curren",
+						"current_user"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"ad",
+						"administrator"
+					],
+					[
+						"remove",
+						"remove_column"
+					],
+					[
+						"full",
+						"full_messages"
+					],
+					[
+						"comment",
+						"commentable"
+					],
+					[
+						"names",
+						"namespace"
+					],
+					[
+						"all",
+						"all	all? { |e| .. }"
+					],
+					[
+						"sub",
+						"subtitle"
+					],
+					[
+						"out",
+						"out_link"
+					],
+					[
+						"fea",
+						"featured_rank"
+					],
+					[
+						"publish",
+						"published_at"
+					],
+					[
+						"admin",
+						"admin_area"
+					],
+					[
+						"before",
+						"before_filter"
+					],
+					[
+						"attr",
+						"attr_accessible"
+					],
+					[
+						"fac",
+						"factory_girl"
+					],
+					[
+						"game",
+						"gamesalute"
+					],
+					[
+						"crow",
+						"crowdfundbuzz"
+					],
+					[
+						"design",
+						"designcrowd"
+					],
+					[
+						"kick",
+						"kicktraq"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"cm",
+						"command"
+					],
+					[
+						"test",
+						"test_img_1"
+					],
+					[
+						"util",
+						"utilitarian_arguments_for_open_source"
+					],
+					[
+						"deonto",
+						"deontological_arguments_for_open_source"
+					],
+					[
+						"div",
+						"diversity"
+					],
+					[
+						"ref",
+						"references"
+					],
+					[
+						"po",
+						"policy"
+					],
+					[
+						"is",
+						"is_this_a_real_task"
+					],
+					[
+						"line",
+						"line_padding_top"
+					],
+					[
+						"line_",
+						"line_padding_bottom"
+					],
+					[
+						"caret",
+						"caret_style"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/atlantis/Dropbox/Classes/CS246/Assignments/gradience/05_pagerank.txt",
+					"settings":
+					{
+						"buffer_size": 1023,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "h = [1 1 1 1]';\nfor i = 1:1000\na = L'*h;\na = a / max(a);\nh = L*a;\nh = h / max(h);\nend",
+					"settings":
+					{
+						"buffer_size": 85,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"mat",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"amtla",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"favor",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"matl",
+						"Set Syntax: MATLAB"
+					],
+					[
+						"pl",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"ope",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"add",
+						"Favorite Files: Add File(s)"
+					],
+					[
+						"open",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"fav",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"fa",
+						"Favorite Files: Add File(s)"
+					],
+					[
+						"syntax rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"pla",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimerge",
+						"Sublimerge: View Diff"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"fi",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"filediff",
+						"FileDiffs: Menu"
+					],
+					[
+						"open fil",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"tidy",
+						"TidyHTML"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pre",
+						"Preferences: Prefixr Key Bindings – User"
+					],
+					[
+						"prefix",
+						"Preferences: Prefixr Key Bindings – Default"
+					],
+					[
+						"lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"s",
+						"Snippet: <base>"
+					],
+					[
+						"syntax r",
+						"Set Syntax: R"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"tit",
+						"Convert Case: Title Case"
+					],
+					[
+						"tasks",
+						"Tasks: New document"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"org",
+						"Preferences: orgmode Settings – Default"
+					],
+					[
+						"orgm",
+						"Preferences: orgmode Settings – Default"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 141.0,
+				"history":
+				[
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(true)",
+					"sublime",
+					"sublime.methods",
+					"sublime.show_commands",
+					"sublime.show_command",
+					"sublime",
+					"prefixr",
+					"sublime.log_commands(False)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/atlantis/Dropbox/Code/Trello/mark_done.rb",
+				"/Users/atlantis/Dropbox/Quick Notes/2-13-14_getting_set_up_with_trello_again.txt",
+				"/Users/atlantis/Dropbox/Classes/CS245/Assignments/hw5/gradience_notes.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/2-13-14_to_do_systems.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/good_porn.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/test/unit/folders_test.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/test/fixtures/folders.yml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/db/migrate/20140203054717_create_folders.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/user.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/folders.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/models/email.rb",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q2b_code.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q3pd_code.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/hw2_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q1d_code.m",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/parse_results.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/scrape_google_flights.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/second_casper_sample_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_sample_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_sample_test.js",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/scraper_options.txt",
+				"/Users/atlantis/Dropbox/Code/Snippets/useful_commands.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/routes.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/mail_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/D2/yes_lets_prototype/casper_gflights_scraper.js",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/mail/index.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/mail/compose_email.html.haml",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/hw2/q1d_code.mat",
+				"/Users/atlantis/Dropbox/Projects/Smart Water Bottle/bases_pitch_notes.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/db/migrate/20140201000918_devise_create_users.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/sample_oauth2_response.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/Gemfile",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/initializers/devise.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/homepage/homepage.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/message.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/client/imap_extensions.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/application_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/users/omniauth_callbacks_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/homepage_controller.rb",
+				"/Users/atlantis/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/net/imap.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/google/test.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/google/authenticate.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/controllers/google_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/initializers/omniauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/public/index.html",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/application.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/layouts/application.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/app/views/layouts/application.html.haml",
+				"/Users/atlantis/Documents/version_controlled_code/194/194_project/senior_project_app/config/environments/development.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194/gmail/lib/gmail/client/xoauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/vons_site/wp-content/plugins/content-warning-v2/css/cwv3.css",
+				"/Users/atlantis/Dropbox/Classes/MATH51/exam_1_notes.txt",
+				"/Users/atlantis/Dropbox/Projects/YesLets/possible_flight_fare_apis.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/FriendRecommender.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/FriendRecommenderPartTwo.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/hw1_q1_code.java",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/hw1_solutions.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/new_output",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/part-r-00000",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q1code/newtestoutput",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/lsh/README.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/apriori.py",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_3.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_2.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_1.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/lsh/q4_d_part_2.m",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q4code/q4_d_part_1.mat",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/README.txt",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/config/initializers/omniauth.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/controllers/sessions_controller.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/views/sessions/create.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/app/views/layouts/application.html.erb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/241-simple-omniauth/blog/Gemfile",
+				"/Users/atlantis/Downloads/client_secret_446049003901.apps.googleusercontent.com.json",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/.gitignore",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/.gitignore",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/db/schema.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/test/fixtures/posts.yml",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/test/unit/post_test.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/app/models/post.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/senior_project_app/db/migrate/20140123234354_create_posts.rb",
+				"/Users/atlantis/Documents/version_controlled_code/194_project/README.md",
+				"/Users/atlantis/.zshrc",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/browsing_small_set.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/browsing.txt",
+				"/Users/atlantis/Dropbox/Classes/CS246/Assignments/HW1/q2/test_answers.py",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/config/config.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/config/database.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/pages/home.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/pages/about.php",
+				"/Users/atlantis/Documents/version_controlled_code/codeigniter_test_app/application/views/templates/footer.php",
+				"/Users/atlantis/Dropbox/Classes/CS 161/Other/cs161_final_notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/q4.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS7/hw7_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/hw5/hw5solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS6/11-4-13_random_to_dos.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS9/ps9_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/hw7/challenge_problems.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/hw7/recursion_exercises.sql'",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS8/ps8_solns.txt",
+				"/Users/atlantis/Dropbox/Code/SCPD_Scrape/scrape.py",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/hw4/hw4_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/hw4_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/p3_info.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/testing_webpy/templates/index.html",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p3/testing_webpy/code.py",
+				"/Users/atlantis/Dropbox/Classes/CS 157/notes_hw_8.txt",
+				"/Users/atlantis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2/11-6-13_todo.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/project/p2/11-6-13_things_to_know_161_midterm.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/9-24-13_notes_first_hw.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/9-24-13_notes_first_class.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/HW/PS3/hw3_solns.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 157/video_notes.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Notes/notes_weeks_one_and_two.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/10-1-13_notes_for_and_from_call_with_greg.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW2/notes_cp_2_soln.txt",
+				"/Users/atlantis/Dropbox/Classes/CEE 70/Notes/notes_textbook.txt",
+				"/Users/atlantis/Dropbox/Quick Notes/10-11-13_fidget_toys.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-noID_DTD.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-ID_DTD.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-ID.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/courses-noID.xml",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/cp2_soln_FINAL.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 145/Homework/HW1/challenge_problems.txt",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/quick_test_1-4.rb",
+				"/Users/atlantis/Dropbox/Classes/CS 161/HW/1.1-1.2_soln.txt"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js,-*.css",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/models",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/helpers",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot/app/controllers",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js,-*.css",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot,-*.js",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/siteroot",
+					"/Users/atlantis/Dropbox/Code/D2/htcv2/enki"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"011",
+					"111",
+					"101",
+					"011",
+					"010",
+					"101",
+					"011",
+					"010",
+					"011",
+					"001",
+					"1111",
+					"0001",
+					"0111",
+					"chronic",
+					"indices",
+					"user_user",
+					"top_19_indices_final",
+					"user",
+					"19",
+					"user",
+					"top_19_indices_final",
+					"[0 0 0 0 0]",
+					"top_5_scores",
+					"user",
+					"Q^(-1/2)",
+					"P^(-1/2)",
+					"min_price_flights_all",
+					"2014-03-05",
+					"'Cheapest options among all dates:'",
+					"all",
+					"best_dep_flight",
+					"timing_and_airline",
+					"_tag",
+					"email",
+					"subject",
+					"label",
+					"t_lp",
+					"inbox",
+					"note",
+					"message",
+					"auth_hash",
+					"path",
+					"assets",
+					"action_ma",
+					"439,2409,6995,11860,15416,43748,45881",
+					",212,",
+					"212",
+					",",
+					"lsh_times",
+					"over",
+					"the set",
+					"figure",
+					"lsh_dist_sum",
+					"lshlookup",
+					"1YkujFdHxBrE184DyF86LM-I",
+					"446049003901.apps.googleusercontent.com",
+					"association_rules_pairs",
+					"import",
+					"from",
+					"keys",
+					"P(",
+					"C.",
+					"p4",
+					"p3",
+					"p2",
+					"p1",
+					"cs145_hw2_cp1",
+					"cs145_hw2_cp1=# ",
+					"getp",
+					"password",
+					"lecture",
+					"ppm",
+					"low_AQI_conc",
+					"u",
+					"x",
+					"w",
+					"hiring",
+					"Risk",
+					"*10^(-2)",
+					"SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p",
+					"SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P14\nJOIN\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P15\nusing(p)\nWHERE P14.c = 5 and P15.c = 11",
+					"SELECT P14.p, P14.c, P15.c, P14.steps + P15.steps as steps FROM\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P14\nJOIN\n(SELECT distinct P3.p as p, P3.p as c, 0 as steps FROM\n(SELECT P1.p as p FROM \"Parent\" P1\nUNION\nSELECT P2.c as p FROM \"Parent\" P2) P3\n\nUNION\n\nSELECT P4.p as p, P4.c as c, 1 as steps FROM \"Parent\" P4\n\nUNION\n\nSELECT P5.p as p, P6.c as c, 2 as steps FROM\n\"Parent\" P5 JOIN \"Parent\" P6 ON P5.c = P6.p\n\nUNION\n\nSELECT P7.p as p, P9.c as c, 3 as steps FROM\n(\"Parent\" P7 JOIN \"Parent\" P8 ON P7.c = P8.p) JOIN\n\"Parent\" P9 ON P8.c = P9.p\n\nUNION\n\nSELECT P10.p as p, P13.c as c, 4 as steps FROM\n((\"Parent\" P10 JOIN \"Parent\" P11 ON P10.c = P11.p) JOIN\n\"Parent\" P12 ON P11.c = P12.p) JOIN\n\"Parent\" P13 ON P12.c = P13.p) P15\nusing(p)\nWHERE P14.c = 5 and P15.c = 11",
+					";",
+					"=>",
+					"pry(main)*",
+					"pry(main)>",
+					"u",
+					"U",
+					"JOIN_",
+					"PROJECT_",
+					"Rnew",
+					"Rorig",
+					"RENAME_",
+					"Rold",
+					"coursere",
+					"instruc",
+					"course",
+					"pre",
+					"instr",
+					"=",
+					"Prerequisites",
+					"course",
+					"profess",
+					"chair",
+					"depart",
+					"burn",
+					"time",
+					"exer",
+					"ws",
+					"web",
+					"email",
+					"accoun",
+					"up",
+					"hab",
+					"site",
+					"parent",
+					"bd",
+					"danny",
+					"hp",
+					"site",
+					"service-entry-page",
+					"this_service",
+					"remove_column",
+					"content_post_path",
+					"post_path",
+					"find_all_by_slug",
+					"resource_category",
+					"work"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\t",
+					"advice",
+					"Factory",
+					"",
+					"htcv2",
+					"Htcv2",
+					"htcv2"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/atlantis/Dropbox/Classes/CS246/Assignments/gradience/05_pagerank.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1023,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1023,
+										1023
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 85,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										85
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/Matlab/Matlab.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0 4 720 874 0 0 1440 878 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"adduser",
+						"siteroot/db/migrate/20130816052422_add_username_to_users.rb"
+					],
+					[
+						"gem",
+						"siteroot/Gemfile"
+					],
+					[
+						"_payment",
+						"siteroot/app/views/spree/checkout/_payment.html.haml"
+					],
+					[
+						"adv",
+						"siteroot/app/models/advice_post.rb"
+					],
+					[
+						"spree/checkout/ed",
+						"siteroot/app/views/spree/checkout/edit.html.haml"
+					],
+					[
+						"environ/development",
+						"siteroot/config/environments/development.rb"
+					],
+					[
+						"config/environments/p",
+						"carrierwave_direct_example/config/environments/production.rb"
+					],
+					[
+						"comments/_fo",
+						"siteroot/app/views/comments/_form.html.haml"
+					],
+					[
+						"advice_posts/show",
+						"siteroot/app/views/advice_posts/show.html.haml"
+					],
+					[
+						"advice_posts/in",
+						"siteroot/app/views/advice_posts/index.html.haml"
+					],
+					[
+						"userto",
+						"siteroot/db/migrate/20130801000649_add_user_ids_to_user_creatable_models.rb"
+					],
+					[
+						"createresour",
+						"siteroot/db/migrate/20130728163324_create_resources.rb"
+					],
+					[
+						"advice_",
+						"siteroot/app/models/advice_post.rb"
+					],
+					[
+						"migrationadvie",
+						"siteroot/db/migrate/20130731221626_change_titles_on_advice.rb"
+					],
+					[
+						"createad",
+						"siteroot/db/migrate/20130730155313_create_advice_posts.rb"
+					],
+					[
+						"abilit",
+						"siteroot/app/models/ability.rb"
+					],
+					[
+						"",
+						"siteroot/app/views/layouts/devise.html.haml"
+					],
+					[
+						"image",
+						"siteroot/app/uploaders/image_uploader.rb"
+					],
+					[
+						"read",
+						"~/Library/Application Support/Sublime Text 3/Packages/orgmode/README.org"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 134.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 507,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

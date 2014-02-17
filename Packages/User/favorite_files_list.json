@@ -1,0 +1,16 @@
+{
+    "files": [],
+    "groups": {
+        "Everyday": [
+            "/Users/atlantis/Dropbox/Code/Snippets/useful_commands.txt",
+            "/Users/atlantis/.zshrc"
+        ],
+        "Important Info": [
+            "/Users/atlantis/Dropbox/Quick Notes/9-2_subscriptions.txt"
+        ],
+        "Test Group": [
+            "/Users/atlantis/Dropbox/Nice Things/goobhaus_site/7-21_thoughts_about_ollie_bday_site.txt"
+        ]
+    },
+    "version": 1
+}

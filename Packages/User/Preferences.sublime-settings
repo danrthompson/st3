@@ -1,0 +1,23 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 17.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"orgmode",
+		"Vintage"
+	],
+	"show_panel_on_build": false,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"word_wrap": true
+}

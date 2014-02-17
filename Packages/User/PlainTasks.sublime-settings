@@ -1,0 +1,16 @@
+{
+  "date_format": "(%m-%d-%y %H:%M)",
+  "color_scheme": "Packages/User/custom_tasks.tmTheme",
+  "font_size": 15.0,
+  "font_face": "Ubuntu Mono",
+  "draw_indent_guides": true,
+  "line_numbers": true,
+  "extensions":
+  [
+    "TODO",
+    "todo",
+    "todolist",
+    "taskpaper",
+    "tasks"
+  ]
+}

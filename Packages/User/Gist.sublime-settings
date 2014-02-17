@@ -1,0 +1,11 @@
+{
+	// Your username on GitHub
+	"username": "drowningcat",
+
+	// Your password on GitHub
+	"password": "dv#w8E23f!eU7i",
+
+	// Your GitHub API token
+	// see: https://github.com/condemil/Gist#generating-access-token
+	"token": "fc07f8b859ddb317aeb3db622ce10688cb84a3af",
+}
